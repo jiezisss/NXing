@@ -1,6 +1,6 @@
 
 
-<p align='center'> <a href="https://nxing.jieziss.top/"><img src="https://nxing.jieziss.top/images/NXing.png"></img></a></p>
+<p align='center'> <a href="https://nxing.jieziss.top/"><img src="https://nxing.jieziss.top/images/NXing.png" width="45%"></img></a></p>
 
 <p align="center">
 	<strong>万事能行-NXing</strong>
