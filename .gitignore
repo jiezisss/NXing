@@ -25,7 +25,7 @@
 *.iws
 *.idea
 
-# ignore eclipse files
+# ignore eclipse Files
 .project
 .classpath
 .settings
